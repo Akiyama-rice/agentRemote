@@ -1,0 +1,15 @@
+/AGENTS.md
+/docs/*
+!/docs/repro/
+/docs/repro/*
+!/docs/repro/第一轮实现与取舍.md
+/plans/
+
+node_modules/
+coverage/
+dist/
+*.tsbuildinfo
+.DS_Store
+.env
+.env.*
+!.env.example
